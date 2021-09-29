@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshan8281
 - 👀 I’m interested in Java coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : zeeshan8281@gmail.com
 
