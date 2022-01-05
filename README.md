@@ -1,8 +1,12 @@
 ![Intro](Zee.png)
-- 👋 Hi, I’m @zeeshan8281
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning Front End Web Development and ROS
-- 📫 How to reach me : zeeshan8281@gmail.com
+Here are some of my achievements-
+- 2 ⭐ Codechef
+- 5 ⭐ Java Hackerrank
+- 3 ⭐ Python Hackerrank
+
+I'm interested in Front End Web Development and Robotics
+
+You can repositories of my projects below:
 
 <!---
 zeeshan8281/zeeshan8281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
