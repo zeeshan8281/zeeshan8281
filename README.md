@@ -1,5 +1,4 @@
 ![Intro](Zee.png)
-Here are some of my achievements-
 - 2 ⭐ Codechef
 - 5 ⭐ Java Hackerrank
 - 3 ⭐ Python Hackerrank
