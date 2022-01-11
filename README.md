@@ -5,7 +5,7 @@
 
 Skills:
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width = "70">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" >
 
 Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
