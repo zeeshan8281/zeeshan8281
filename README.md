@@ -5,7 +5,7 @@
 
 Skills:
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width = "70">    <img src = "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width ="70">  <img src = "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width = "70">    <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" width ="70">  <img src = "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70">
 
 Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
