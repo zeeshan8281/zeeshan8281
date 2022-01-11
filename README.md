@@ -3,7 +3,7 @@
 - 5 ⭐ Java Hackerrank
 - 3 ⭐ Python Hackerrank
 
-I'm interested in Front End Web Development and Robotics
+Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
 You can see repositories of my projects below:
 
