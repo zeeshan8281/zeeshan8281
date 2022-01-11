@@ -6,6 +6,7 @@
 Skills:
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" >
+<img src = "https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg">
 
 Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
