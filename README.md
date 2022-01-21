@@ -5,9 +5,23 @@
 
 Skills:
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width = "70">    <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" width ="70">  <img src = "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ 
+  <img height="50" src="">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 
 Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
+
+</a>
+  <a href="https://twitter.com/zeeshan_utd" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="zeeshan_utd"
+      height="30"
+      width="40"
+  /></a>
 
 You can see repositories of my projects below:
 
