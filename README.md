@@ -44,6 +44,7 @@ Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
   
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan8281r&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/zeeshan8281)
 
 <h2 align="center">Github Statistics </h2>
 
