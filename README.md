@@ -41,7 +41,16 @@ Coonect with me:
       width="40"
   /></a>
   
-  
+</p>
+
+
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/zeeshan8281)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/zeeshan8281)
+|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham-bhatnagar&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/zeeshan8281)|
+</p>
 
 You can see repositories of my projects below:
 
