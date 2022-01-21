@@ -15,7 +15,8 @@ Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
 <h2 align="center">Connect With Me: </h2>
 
-<a href="mailto:zeeshan8281@gmail.com?'Reaching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></a>
+<p align="left">
+<a href="mailto:zeeshan8281@gmail.com?'Reaching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
 
 </a>
   <a href="https://twitter.com/zeeshan_utd" target="blank"
