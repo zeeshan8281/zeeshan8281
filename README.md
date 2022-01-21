@@ -16,7 +16,7 @@ Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 <h2 align="center">Connect With Me: </h2>
 
 <p align="left">
-<a href="mailto:zeeshan8281@gmail.com?subject=Enquiry about a project">Email Me</a>  
+<a href="mailto:zeeshan8281@gmail.com"</a>  
 
 </a>
   <a href="https://twitter.com/zeeshan_utd" target="blank"
