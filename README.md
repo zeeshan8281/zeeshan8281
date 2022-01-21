@@ -43,8 +43,8 @@ Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
   /></a>
   
 </p>
-<h2 align-"center">Top Languages </h2>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan8281&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)]
+<h2 align="center">Top Languages </h2>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan8281&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)
 
 <h2 align="center">Github Statistics </h2>
 
