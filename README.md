@@ -49,7 +49,7 @@ Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeeshan8281&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshan8281&theme=vision-friendly-dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshan8281&theme=react-dark)
 
 
 You can see repositories of my projects below:
