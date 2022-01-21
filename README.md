@@ -13,7 +13,7 @@ Skills:
 
 Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
 
-Coonect with me:
+<h2 align="center">Connect With Me: </h2>
 
 </a>
   <a href="https://twitter.com/zeeshan_utd" target="blank"
