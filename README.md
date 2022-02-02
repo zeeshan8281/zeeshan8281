@@ -1,4 +1,5 @@
-![Intro](Hi,.png)
+                                                         Hi👋, I'm Zeeshan, CSE Undergrad at SRM IST 
+
 - 2 ⭐ Codechef
 - 5 ⭐ Java Hackerrank
 - 3 ⭐ Python Hackerrank
