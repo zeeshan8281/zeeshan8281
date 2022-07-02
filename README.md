@@ -1,66 +1,24 @@
-                                                         Hi👋, I'm Zeeshan, CSE Undergrad at SRM IST 
+<h1 align="center">Hi 👋, I'm Md. Zeeshan Jawed</h1>
+<h3 align="center">I am a Competitive Programmer, UI/UX Designer and Front End Web Developer</h3>
 
-- 2 ⭐ Codechef
-- 5 ⭐ Java Hackerrank
-- 3 ⭐ Python Hackerrank
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan8281&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan8281" /> </p>
 
-Skills:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan8281" alt="zeeshan8281" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/zeeshan_utd" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshan_utd?logo=twitter&style=for-the-badge" alt="zeeshan_utd" /></a> </p>
 
- 
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-
-Got a project to work on, feel free to reach me out at zeeshan8281@gmail.com
-
-<h2 align="center">Connect With Me: </h2>
- 
-
-</a>
-  <a href="https://twitter.com/zeeshan_utd" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="zeeshan_utd"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.linkedin.com/in/mohammad-zeeshan-jawed-bab51a1a6/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Mohammad Zeeshan"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/zeeshansig" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="shreyaansjain06"
-      height="30"
-      width="40"
-  /></a>
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zeeshan_utd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshan_utd" height="30" width="40" /></a>
+<a href="https://dribbble.com/zeeshan8281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zeeshan8281" height="30" width="40" /></a>
+<a href="https://www.behance.net/zeeshanjawed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zeeshanjawed" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/zeeshan8281" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zeeshan8281" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zeeshan8281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeeshan8281" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Top Languages </h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan8281&layout=compact)](https://github.com/zeeshan8281/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan8281&show_icons=true&locale=en" alt="zeeshan8281" /></p>
 
-<h2 align="center">Github Statistics </h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeeshan8281&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<h2 align="center">Contribution Graph </h2>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshan8281&theme=react-dark)
-
-
-You can see repositories of my projects below:
-
-<!---
-zeeshan8281/zeeshan8281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan8281&" alt="zeeshan8281" /></p>
