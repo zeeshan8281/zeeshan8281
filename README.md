@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Zeeshan Jawed</h1>
-<h3 align="center">I am a Solidity and React.js Developer and a UI/UX Designer </h3>
+<h3 align="center">Solidity | Community | UI/UX </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan8281&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan8281" /> </p>
 
