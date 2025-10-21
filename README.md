@@ -37,7 +37,7 @@ I like building in public, simplifying complexity, and helping devs ship faster.
 
 ---
 
-### 🌐 Connect with me on X/twitter: [@zeeshan_utd](https://x.com/zeeshan_utd)
+### 🌐 Connect with me on X: [@zeeshan_utd](https://x.com/zeeshan_utd)
 
 ---
 
